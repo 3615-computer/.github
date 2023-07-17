@@ -3,7 +3,7 @@
 ### Services
 - 🌐 Main web page: [www.3615.computer](https://www.3615.computer)
 - 🐘 Mastodon instance: [3615.computer](https://www.3615.computer)
-- ~⛏️ Minecraft servers, see [portal.3615.computer](https://portal.3615.computer)~
+- ⛏️ Minecraft servers, see [apps.3615.computer](https://apps.3615.computer)
 - 💬 [Telegram channel](https://t.me/+7av7NhuzeBdjNTNk), in case we have to send updates while the instance is down: 
 
 ### Information
@@ -11,7 +11,7 @@
 - 📧 3615.computer contact: [contact@3615.computer](mailto:contact@3615.computer)
 
 ### Why do we exist?
-Alyx just wanted her owner Mastodon instance at first. 
+Alyx just wanted her owner Mastodon's instance at first. 
 
 But with such a cool domain, she had to **make a community** 👥.
 
