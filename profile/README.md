@@ -3,8 +3,10 @@
 ### Services
 - 🌐 Main web page: [www.3615.computer](https://www.3615.computer)
 - 🐘 Mastodon instance: [3615.computer](https://www.3615.computer)
-- ⛏️ Minecraft servers, see [apps.3615.computer](https://apps.3615.computer)
-- 💬 [Telegram channel](https://t.me/+7av7NhuzeBdjNTNk), in case we have to send updates while the instance is down: 
+  - 📣 Instance team for announcements: [3615.computer/@team](https://3615.computer/@team)
+  - 💬 [Telegram channel](https://t.me/+7av7NhuzeBdjNTNk), in case we have to send updates while the instance is down
+- ⛏️ Minecraft servers, see [apps.3615.computer/minecraft](https://apps.3615.computer/minecraft)
+- ✍️ Miniblog, see [apps.3615.computer/miniblog](https://apps.3615.computer/miniblog)
 
 ### Information
 - 🏳️‍🌈 [Alyx (he/she)](https://github.com/VictorBersy/) is the owner of the organization. See [her profile](https://github.com/VictorBersy#hi-there).
@@ -15,14 +17,14 @@ Alyx just wanted her owner Mastodon's instance at first.
 
 But with such a cool domain, she had to **make a community** 👥.
 
-Registrations will open soon on the Mastodon instance, and members of this instance will get access to exclusive services. Right now, Minecraft servers. Later, maybe more?
+Registrations are open, and members of this instance will get access to exclusive services. At the moment, Minecraft servers and a Miniblog services.
 
 ### Can I help?
 
 Sure thing! 
-- 🤓 Once the registrations will open, I will look for moderators.
+- 🤓 Depending on the growth of the instance, I'll be on the look for moderators
 - ⤵️ Any pull requests on our projects are also very welcome, even for very small things. Anything helps!
-- 📧 Report anything weird, our projects must work as expected. We will investigate any reported issues.
+- 📧 Report anything weird or any posts that are concerning, our projects must work as expected and our instance is moderated. We will investigate any reported issues.
 - 🥰 Be kind to yourself and others
 
 <p align="center">
