@@ -5,11 +5,9 @@
 - 🐘 Mastodon instance: [3615.computer](https://www.3615.computer)
   - 📣 Instance team for announcements: [3615.computer/@team](https://3615.computer/@team)
   - 💬 [Telegram channel](https://t.me/+7av7NhuzeBdjNTNk), in case we have to send updates while the instance is down
-- ⛏️ Minecraft servers, see [apps.3615.computer/minecraft](https://apps.3615.computer/minecraft)
-- ✍️ Miniblog, see [apps.3615.computer/miniblog](https://apps.3615.computer/miniblog)
 
 ### Information
-- 🏳️‍🌈 [Alyx (he/she)](https://github.com/VictorBersy/) is the owner of the organization. See [her profile](https://github.com/VictorBersy#hi-there).
+- 🏳️‍🌈 [Alyx (he/she)](https://github.com/AlyxPink/) is the owner of the organization. See [her profile](https://github.com/AlyxPink#hi-there).
 - 📧 3615.computer contact: [contact@3615.computer](mailto:contact@3615.computer)
 
 ### Why do we exist?
@@ -17,7 +15,7 @@ Alyx just wanted her owner Mastodon's instance at first.
 
 But with such a cool domain, she had to **make a community** 👥.
 
-Registrations are open, and members of this instance will get access to exclusive services. At the moment, Minecraft servers and a Miniblog services.
+Registrations are ~open~ on approval at the moment, because of the spawm way over the Fediverse.
 
 ### Can I help?
 
