@@ -26,14 +26,18 @@ Sure thing!
 - 🥰 Be kind to yourself and others
 
 <p align="center">
-  <img height="300" src="https://github.com/3615-computer/.github/blob/4f531eb0ebc8ea6fafc597a8cd5112c316fe6cea/profile/2023-07-11%2022.45.50.jpg" alt="A Minitel, an old french terminal created by the state. It has a black AZERTY keyboard, the lays down once detached from the screen. The screen is an old CRT one of course. It's turned on and displays a service to look for people's and companies' numbers/addresses. The back of the terminal is covered with a brownish plastic case."/>
+  <img height="300" src="https://github.com/3615-computer/.github/assets/152620834/d667eca6-26de-4160-99a8-e894f3773d3a" alt="A Minitel, an old french terminal created by the state. It has a black AZERTY keyboard, the lays down once detached from the screen. The screen is an old CRT one of course. It's turned on and displays a service to look for people's and companies' numbers/addresses. The back of the terminal is covered with a brownish plastic case."/>
 </p>
 
 ### Why 3615.computer?
 
 It comes down from the Minitel service deployed in France in the 80s. 
 
->By 1988 three million terminals were installed, with 100,000 new units installed monthly. The telephone directory received 23 million calls monthly, with 40,000 updates daily. About 6,000 other services were available, with 250 added monthly. France Télécom estimated that almost 9 million terminals—including web-enabled personal computers (Windows, Mac OS, and Linux)—had access to the network at the end of 1999, and that it was used by 25 million people (of a total population of 60 million). Developed by 10,000 companies, in 1996, almost 26,000 different services were available.
+>By 1988 three million terminals were installed, with 100,000 new units installed monthly. 
+>
+>The telephone directory received 23 million calls monthly, with 40,000 updates daily. About 6,000 other services were available, with 250 added monthly. 
+>
+>France Télécom estimated that almost 9 million terminals—including web-enabled personal computers (Windows, Mac OS, and Linux)—had access to the network at the end of 1999, and that it was used by 25 million people (of a total population of 60 million). Developed by 10,000 companies, in 1996, almost 26,000 different services were available.
 >
 > – [See more on Wikipedia](https://en.wikipedia.org/wiki/Minitel).
 
