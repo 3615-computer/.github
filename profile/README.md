@@ -1,3 +1,10 @@
+> [!CAUTION]
+> **The Mastodon instance or anything related to it does no longer exists.**
+>
+> Thanks for everyone that were part of it 🙇
+
+---
+
 <h2 align="center">Hi <a href="https://3615.computer">3615.computer</a> community! 👋</h2>
 
 <div align="center">
@@ -7,15 +14,15 @@
 <h3 align="center">We are so happy to have you, or hope to see you soon 😊</h3>
 
 ### Services
-- 🌐 Main web page: [www.3615.computer](https://www.3615.computer)
-- 🐘 Mastodon instance: [3615.computer](https://3615.computer)
-  - 📣 [3615.computer/@team](https://3615.computer/@team) Team account for announcements
-  - 💬 [Telegram channel](https://t.me/+7av7NhuzeBdjNTNk) to discuss and send updates during an incident
-  - 🚨 [status.3615.computer](https://status.3615.computer/) to let everyone know what's going on during a technical incident
+- ~🌐 Main web page: [www.3615.computer](https://www.3615.computer)~
+- ~🐘 Mastodon instance: [3615.computer](https://3615.computer)~
+  - ~📣 [3615.computer/@team](https://3615.computer/@team) Team account for announcements~
+  - ~💬 [Telegram channel](https://t.me/+7av7NhuzeBdjNTNk) to discuss and send updates during an incident~
+  - ~🚨 [status.3615.computer](https://status.3615.computer/) to let everyone know what's going on during a technical incident~
 
 ### Information
 - 🏳️‍🌈 [Alyx (he/she)](https://github.com/AlyxPink#hi-there) is the owner of the organization. See [her profile](https://3615.computer/@alyx).
-- 📧 3615.computer contact: [contact@3615.computer](mailto:contact@3615.computer)
+- ~📧 3615.computer contact: [contact@3615.computer](mailto:contact@3615.computer)~
 
 ### Why do we exist?
 Alyx just wanted her owner Mastodon's instance at first. 
