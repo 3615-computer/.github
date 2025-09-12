@@ -1,58 +1,54 @@
-> [!CAUTION]
-> **The Mastodon instance or anything related to it does no longer exists.**
->
-> Thanks for everyone that were part of it 🙇
-
----
-
-<h2 align="center">Hi <a href="https://3615.computer">3615.computer</a> community! 👋</h2>
-
 <div align="center">
   <img width="80%" src="https://github.com/3615-computer/.github/assets/152620834/70f930c7-ffba-49a6-afed-3e4b34b8f604">
 </div>
 
-<h3 align="center">We are so happy to have you, or hope to see you soon 😊</h3>
+## Our Products
 
-### Services
-- ~🌐 Main web page: [www.3615.computer](https://www.3615.computer)~
-- ~🐘 Mastodon instance: [3615.computer](https://3615.computer)~
-  - ~📣 [3615.computer/@team](https://3615.computer/@team) Team account for announcements~
-  - ~💬 [Telegram channel](https://t.me/+7av7NhuzeBdjNTNk) to discuss and send updates during an incident~
-  - ~🚨 [status.3615.computer](https://status.3615.computer/) to let everyone know what's going on during a technical incident~
+### 🚀 [Workunit](https://workunit.app/)
+AI-powered project management platform that eliminates context fragmentation. Perfect for solo entrepreneurs and small teams who want to consolidate their scattered communication tools into one intelligent workspace.
 
-### Information
-- 🏳️‍🌈 [Alyx (he/she)](https://github.com/AlyxPink#hi-there) is the owner of the organization. See [her profile](https://3615.computer/@alyx).
-- ~📧 3615.computer contact: [contact@3615.computer](mailto:contact@3615.computer)~
+- **Context-aware AI** that understands your products, people, and processes
+- **Collaborative workspaces** that preserve context across development stages
+- **GitHub integration** and development tool connectivity
+- **Usage-based pricing** starting with a free tier
 
-### Why do we exist?
-Alyx just wanted her owner Mastodon's instance at first. 
+### ⚔️ [Aeronef](https://aeronef.app/)
+Comprehensive companion app for Guild Wars 2 players. Built by gamers, for gamers.
 
-But with such a cool domain, she had to **make a community** 👥. It's always something I've dreamed of, creating a space, stand back, and see it being filled with lovely people.
+- **Trading post analytics** and real-time market data
+- **Account management** and value tracking
+- **World boss timers** and event scheduling
+- **Crafting calculator** and daily quest management
+- **Wizard's Vault integration**
 
-Registrations are ~open~ on approval at the moment, because of the recent spam wave. Ask for one you should be accepted without any issues 😊
+## Why 3615.computer?
 
-### Can I help?
+<figure>
+    <img src="https://github.com/3615-computer/.github/assets/152620834/d667eca6-26de-4160-99a8-e894f3773d3a" align="right" width="33%" height="auto" alt="A Minitel, an old french terminal created by the state. It has a black AZERTY keyboard, the lays down once detached from the screen. The screen is an old CRT one of course. It's turned on and displays a service to look for people's and companies' numbers/addresses. The back of the terminal is covered with a brownish plastic case.">
+    <figcaption>
+        <h3>Our name comes from the Minitel service deployed in France in the 80s - a pioneering digital service network that connected millions of people before the internet.</h3>
+        <blockquote>
+        By 1988 three million terminals were installed, with 100,000 new units installed monthly.
+        <br><br>
+        The telephone directory received 23 million calls monthly, with 40,000 updates daily. About 6,000 other services were available, with 250 added monthly.
+        <br><br>
+        France Télécom estimated that almost 9 million terminals—including web-enabled personal computers (Windows, Mac OS, and Linux)—had access to the network at the end of 1999, and that it was used by 25 million people (of a total population of 60 million). Developed by 10,000 companies, in 1996, almost 26,000 different services were available.
+        <br><br>
+        – <a href="https://en.wikipedia.org/wiki/Minitel">See more on Wikipedia</a>.
+        </blockquote>
+        <p>It was an interesting project from the French government. One way to reach out to commercial services was to call "3615" and then type the name of your service on your terminal. Just like those early pioneers, we believe in creating accessible, intelligent tools that solve real problems.</p>
+    </figcaption>
+</figure>
 
-Sure thing! 
-- 🤓 Depending on the growth of the instance, I'll be on the look for moderators
-- ⤵️ Any pull requests on our projects are also very welcome, even for very small things. Anything helps!
-- 📧 Report anything weird or any posts that are concerning, our projects must work as expected and our instance is moderated. We will investigate any reported issues.
-- 🥰 Be kind to yourself and others
+## Connect
 
-### Why 3615.computer?
+Founded by Alyx, a self-taught technologist with 11 years of professional engineering experience and former Senior Infrastructure Engineer at Docker. We're building the next generation of intelligent, fairly-priced software tools.
 
-<p align="center">
-  <img height="300" src="https://github.com/3615-computer/.github/assets/152620834/d667eca6-26de-4160-99a8-e894f3773d3a" alt="A Minitel, an old french terminal created by the state. It has a black AZERTY keyboard, the lays down once detached from the screen. The screen is an old CRT one of course. It's turned on and displays a service to look for people's and companies' numbers/addresses. The back of the terminal is covered with a brownish plastic case."/>
-</p>
+**Get in touch:**
+- 🌐 **Website** → [3615.computer](https://3615.computer/)
+- 📝 **Announcement** → [Read my blogpost](https://alyx.pink/posts/2025-09-12-a-new-chapter/) (includes social profiles)
+- 💼 **Try Workunit** → [workunit.app](https://workunit.app/)
+- ⚔️ **Try Aeronef** → [aeronef.app](https://aeronef.app/)
+- 📧 **Contact** → Reach out through our website or GitHub's email address
 
-It comes down from the Minitel service deployed in France in the 80s. 
-
->By 1988 three million terminals were installed, with 100,000 new units installed monthly. 
->
->The telephone directory received 23 million calls monthly, with 40,000 updates daily. About 6,000 other services were available, with 250 added monthly. 
->
->France Télécom estimated that almost 9 million terminals—including web-enabled personal computers (Windows, Mac OS, and Linux)—had access to the network at the end of 1999, and that it was used by 25 million people (of a total population of 60 million). Developed by 10,000 companies, in 1996, almost 26,000 different services were available.
->
-> – [See more on Wikipedia](https://en.wikipedia.org/wiki/Minitel).
-
-It was an interesting project from the French government. One way to reach out to commercial services was to call "3615" and then type the name of your service on your terminal.
+Whether you're a solo entrepreneur looking to eliminate context fragmentation or a Guild Wars 2 player seeking better tools, we'd love to hear from you!
